@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/bar/baz.vue?7f4f"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"css/dd42d45.css","sourcesContent":["#app[data-v-e2dbbd3c] {\n  width: 100%;\n  display: flex;\n}\n#app #nav[data-v-e2dbbd3c] {\n    width: 100%;\n}\n"],"sourceRoot":""}

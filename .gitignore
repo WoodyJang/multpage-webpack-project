@@ -5,6 +5,20 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+node_modules
+.DS_Store
+.vscode
+design
+*.log
+packages/test
+package-lock.json
+temp
+my-workspace
+
+
+
+
+
 # Runtime data
 pids
 *.pid
